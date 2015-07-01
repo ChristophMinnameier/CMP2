@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Chessboard : MonoBehaviour {
-
+	//--
 	public int m_iSize = 10;
 
 	GameObject[,] m_Grid;
